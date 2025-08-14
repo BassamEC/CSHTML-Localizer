@@ -1,0 +1,8 @@
+# Ignore all view files
+Views/
+
+# Ignore all localized output directories/files
+LocalizedOutput/
+
+# Ignore environment files
+.env
