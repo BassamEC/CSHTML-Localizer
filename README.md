@@ -1,6 +1,5 @@
 # CSHTML-Localizer
 
-# CSHTML-Translator
 
 An automated pipeline to extract translatable text from CSHTML (Razor) view files, generate English + Arabic resource files (.resx), and replace static text in views with localization keys.
 
